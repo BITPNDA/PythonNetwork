@@ -1,0 +1,6 @@
+A python network.
+Right now I don't know how to do this
+But it will use a list/server with all ips and then send data to those ips it
+needs to send to.
+Probably for DDOS or BOTNET Supercomputer kinda
+The server can be whatever but was thinking irc or maybe some DB
